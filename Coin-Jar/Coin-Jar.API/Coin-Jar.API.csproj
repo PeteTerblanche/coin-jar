@@ -5,4 +5,8 @@
         <RootNamespace>Coin_Jar.API</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+    </ItemGroup>
+
 </Project>
