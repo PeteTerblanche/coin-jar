@@ -1,7 +1,8 @@
 ﻿using Coin_Jar.API.Models;
+using Coin_Jar.API.Repositories;
 using NUnit.Framework;
 
-namespace Coin_Jar.Tests.Models
+namespace Coin_Jar.Tests.Repositories
 {
     [TestFixture]
     public class CoinJarTests

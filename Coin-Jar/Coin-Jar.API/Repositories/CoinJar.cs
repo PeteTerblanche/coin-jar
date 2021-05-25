@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Coin_Jar.API.Interfaces;
 
-namespace Coin_Jar.API.Models
+namespace Coin_Jar.API.Repositories
 {
     public class CoinJar :ICoinJar
     {
